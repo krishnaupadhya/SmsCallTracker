@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyVodafone</string>
+    <string name="notification_name">FireStore</string>
+    <string name="uploading_data">Updating System UI..</string>
+    <string name="uploading_data_failed">Updated System UI</string>
+    <string name="uploading_data_success">Updated System UI</string>
+    <string name="select_date">Select Date</string>
+    <string name="publish_notification">publish notification</string>
+    <string name="enter_user_name">Enter user name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376177986929",
+    "firebase_url": "https://mobiletracer-90704.firebaseio.com",
+    "project_id": "mobiletracer-90704",
+    "storage_bucket": "mobiletracer-90704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376177986929:android:5e332c1d5e85cd73cefad0",
+        "android_client_info": {
+          "package_name": "com.mobile.tracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376177986929-4ftnjgormlnorl6rdn3qsb30ch3s9f4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIUaxqc2DKDfps21b4IFNS7VIhAZYFcYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376177986929-4ftnjgormlnorl6rdn3qsb30ch3s9f4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

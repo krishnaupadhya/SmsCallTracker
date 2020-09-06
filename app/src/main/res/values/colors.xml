@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E5DBA</color>
+    <color name="colorPrimaryDark">#14428F</color>
+    <color name="colorAccent">#47A6EB</color>
+    <color name="colorPrimaryLight">#4A5EBB</color>
+    <color name="msg_inner_box_color">#1C979797</color>
+    <color name="text_color_grey">#FF8E8E93</color>
+    <color name="date_picker_divider_color">#FF57b8d1</color>
+    <color name="transparent_black">#80000000</color>
+    <color name="light_gray">#BCBBC1</color>
+
+</resources>
